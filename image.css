@@ -1,0 +1,9 @@
+body{
+    background-image: url(universo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+    padding: 35px;
+}
